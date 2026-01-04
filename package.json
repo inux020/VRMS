@@ -1,0 +1,31 @@
+{
+  "name": "vrms",
+  "version": "1.0.0",
+  "description": "VRMS is a platform to manage vehicle rentals. It allows users to browse, book, and manage vehicles while providing admins the ability to manage fleet and bookings.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inux020/VRMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/inux020/VRMS/issues"
+  },
+  "homepage": "https://github.com/inux020/VRMS#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  }
+}
